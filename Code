@@ -1,0 +1,21 @@
+print("Welcome to Jeswin's calculator!")
+operator=input("Choose your operation; addition, subtraction, multiplication, or division:")
+
+number_1=float(input("Choose your first number:"))
+number_2=float(input("Choose your second number:"))
+
+if operator=="addition":
+  print(number_1+number_2)
+elif operator=="subtraction":
+  print(number_1-number_2)
+elif operator=="multiplication":
+  print(number_1*number_2)
+elif operator=="division":
+  if number_2==0:
+      print("you can't divide by 0 try again!")
+  else:
+      print(number_1/number_2) 
+else:
+    print(number_1/number_2)
+else:
+    print("Invalid operation try again!")
