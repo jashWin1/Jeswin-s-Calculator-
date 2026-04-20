@@ -24,4 +24,4 @@ What I learnt:
 
 About this project:
 
-This is a simple calculator program I made in Python to handle all 4 operations. When I was building this program I learnt how to handle errors and make the program more reliable and fun. This project helped me understand more about user inputs and handeling math calculations in an interative way.
+This is a simple calculator program I made in Python to handle all 4 operations. When I was building this program I learnt how to handle errors and make the program more reliable and fun. This project helped me understand more about user inputs and handeling math calculations in an interactive way.
