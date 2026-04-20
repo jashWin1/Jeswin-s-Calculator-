@@ -7,14 +7,14 @@ The program asks for:
 1. The operation they wanna preform (addition,subtraction,multiplication,or division)
 2. The first and second number they want to preform the operation on (for example 195-92)
 
-Based on those 2 pieces of informations it gives you the answer of the problem. If the user tries to divide by 0 or an invalid it gives you an error response by saying "Invalid operation try again!" 
+Based on those 2 pieces of information it gives you the answer to the problem. If the user tries to divide by 0 or an invalid it gives you an error response by saying "Invalid operation try again!" 
 
 Features include:
 
 1. User input and interaction
 2. Math calculations
 3. if,elif,and else statments
-4. handeling invalid inputs (like dividing by 0 as that gives you undefined.)
+4. handling invalid inputs (like dividing by 0 as that gives you undefined.)
    
 What I learnt:
 1. Taking numerical expresions and converting it using the float() option
